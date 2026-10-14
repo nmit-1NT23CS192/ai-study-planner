@@ -1,0 +1,11 @@
+/* App.css - Minimal overrides only. Main styles are in index.css + MUI theme */
+
+.plan ul {
+  padding-left: 20px;
+}
+
+.error {
+  color: #ef4444;
+  margin-top: 10px;
+  text-align: center;
+}
